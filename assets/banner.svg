@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-<title id="title">NMEA2000 Gateway</title><desc id="desc">Marine data acquisition. Abstract waves, not a circuit diagram.</desc>
+<title id="title">NMEA2000 Gateway</title><desc id="desc">Marine data acquisition. OSTIUM engineering project.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081827"/><stop offset="1" stop-color="#123a4b"/></linearGradient></defs>
 <rect width="1440" height="440" rx="24" fill="url(#bg)"/>
-<g fill="none" stroke="#20d6c0" opacity=".3" stroke-width="2"><path d="M650 330 C840 180 980 440 1440 230"/><path d="M650 355 C840 205 980 465 1440 255"/><path d="M650 380 C840 230 980 490 1440 280"/><path d="M650 405 C840 255 980 515 1440 305"/></g>
-<g fill="none" stroke="#39d8c7" stroke-width="3" opacity=".7"><path d="M1110 85h75l30 30h115M1080 135h75l30 30h145"/><circle cx="1110" cy="85" r="6"/><circle cx="1080" cy="135" r="6"/></g>
-<g font-family="Arial, Helvetica, sans-serif"><text x="76" y="84" font-size="17" letter-spacing="4" fill="#5de1d1">OSTIUM / ENGINEERING PROJECT</text><text x="72" y="190" font-size="76" font-weight="700" fill="#f4f9fc">NMEA2000 Gateway</text><text x="76" y="244" font-size="29" fill="#b9cdd9">Marine data acquisition</text><path d="M76 295h340" stroke="#366172"/><text x="76" y="345" font-size="18" letter-spacing="2" fill="#d6e5ed">DESIGN / PROTOTYPE / VALIDATE</text><text x="76" y="394" font-size="16" fill="#8eabbc">Guilherme Saladrigas Braga · ISEP · 2026</text></g></svg>
+
+
+<g font-family="Arial, Helvetica, sans-serif"><text x="76" y="84" font-family="Arial Rounded MT Bold, Nunito, Verdana, sans-serif" font-size="30" font-weight="900" letter-spacing="1" fill="#5de1d1" stroke="#5de1d1" stroke-width="0.6" stroke-linejoin="round">OSTIUM / ENGINEERING PROJECT</text><text x="72" y="190" font-size="76" font-weight="700" fill="#f4f9fc">NMEA2000 Gateway</text><text x="76" y="244" font-size="29" fill="#b9cdd9">Marine data acquisition</text><text x="76" y="350" font-size="16" fill="#8eabbc">Guilherme Saladrigas Braga · ISEP · 2026</text></g></svg>

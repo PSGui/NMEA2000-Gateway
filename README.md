@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="NMEA2000 Gateway — Marine data acquisition" width="100%"></p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.pt-PT.md">Português</a></p>
+<p align="center"><strong>English</strong> · <a href="https://github.com/PSGui/NMEA2000-Gateway/blob/main/README.pt-PT.md#readme">Português</a></p>
 
 <p align="center"><strong>From physical signals to connected marine systems.</strong><br>A custom data-acquisition prototype, from electronic design to bench validation.</p>
 
@@ -20,6 +20,9 @@ The work covered system architecture, electronic design, prototype assembly, fir
 
 <p align="center"><img src="assets/prototype-enclosure.jpeg" alt="Prototype mounted on a DIN rail, with the enclosure closed." width="480"></p>
 <p align="center"><em>Prototype mounted on a DIN rail, with the enclosure closed.</em></p>
+
+<p align="center"><img src="assets/prototype-open.jpeg" alt="Prototype with the enclosure open." width="480"></p>
+<p align="center"><em>Prototype with the enclosure open.</em></p>
 
 ## Capabilities
 
