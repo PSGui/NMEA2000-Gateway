@@ -1,7 +1,5 @@
 <p align="center"><img src="assets/banner.svg" alt="NMEA2000 Gateway — Marine data acquisition" width="100%"></p>
 
-<p align="center"><strong>English</strong> · <a href="https://github.com/PSGui/NMEA2000-Gateway/blob/main/README.pt-PT.md#readme">Português</a></p>
-
 <p align="center"><strong>From physical signals to connected marine systems.</strong><br>A custom data-acquisition prototype, from electronic design to bench validation.</p>
 
 <p align="center"><a href="#overview">Overview</a> · <a href="#capabilities">Capabilities</a> · <a href="#validation">Validation</a> · <a href="#next-steps">Next steps</a></p>
