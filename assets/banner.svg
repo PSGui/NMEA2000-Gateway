@@ -1,7 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-<title id="title">NMEA2000 Gateway</title><desc id="desc">Marine data acquisition. OSTIUM engineering project.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081827"/><stop offset="1" stop-color="#123a4b"/></linearGradient></defs>
-<rect width="1440" height="440" rx="24" fill="url(#bg)"/>
-
-
-<g font-family="Arial, Helvetica, sans-serif"><text x="76" y="84" font-family="Arial Rounded MT Bold, Nunito, Verdana, sans-serif" font-size="30" font-weight="900" letter-spacing="1" fill="#5de1d1" stroke="#5de1d1" stroke-width="0.6" stroke-linejoin="round">OSTIUM / ENGINEERING PROJECT</text><text x="72" y="190" font-size="76" font-weight="700" fill="#f4f9fc">NMEA2000 Gateway</text><text x="76" y="244" font-size="29" fill="#b9cdd9">Marine data acquisition</text><text x="76" y="350" font-size="16" fill="#8eabbc">Guilherme Saladrigas Braga · ISEP · 2026</text></g></svg>
+<title id="title">NMEA 2000 Gateway — Marine Data Acquisition</title><desc id="desc">Guilherme Braga | ISEP | Portugal. Blue gradient banner with a lifebuoy and a boat.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#201456"/><stop offset="1" stop-color="#245cf5"/></linearGradient>
+<radialGradient id="white"><stop stop-color="#ffffff"/><stop offset=".72" stop-color="#eeeeef"/><stop offset="1" stop-color="#969eab"/></radialGradient>
+<linearGradient id="red" x2="1" y2="1"><stop stop-color="#ff5847"/><stop offset="1" stop-color="#bd131b"/></linearGradient>
+</defs>
+<rect width="1440" height="440" rx="34" fill="url(#bg)"/>
+<g transform="translate(98 83) rotate(12)">
+<circle r="38" fill="none" stroke="#a59660" stroke-width="2"/>
+<circle r="27" fill="none" stroke="url(#white)" stroke-width="20"/>
+<circle r="27" fill="none" stroke="url(#red)" stroke-width="20" stroke-dasharray="22 20.41" transform="rotate(-23)"/>
+<circle r="16" fill="#223388"/>
+</g>
+<g fill="#e6e6e6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+<text x="720" y="205" font-size="76" letter-spacing="-1">NMEA 2000 Gateway</text>
+<text x="720" y="260" font-size="37">Marine Data Acquisition</text>
+<text x="720" y="405" font-size="29">Guilherme Braga | ISEP | Portugal</text>
+</g>
+<g transform="translate(1220 268) rotate(-10 72 70)">
+<path d="M4 119 Q20 109 35 117 T68 117 T100 117 T140 117 L140 128 Q120 124 106 129 T70 129 T35 129 T4 131Z" fill="#86c9df"/>
+<path d="M11 103 L135 96 L119 116 L33 119Z" fill="#344b5f"/>
+<path d="M12 102 L135 94 L131 101 L19 110Z" fill="#d6d6cf"/>
+<path d="M20 111 L125 105" stroke="#ac7d5e" stroke-width="3"/>
+<path d="M66 66 L105 66 L115 97 L65 100Z" fill="#e6e5da" stroke="#758b9a" stroke-width="1.5"/>
+<path d="M62 66 L107 66" stroke="#aa7b64" stroke-width="5"/>
+<g fill="#93bdd0" stroke="#607c92" stroke-width="2"><path d="M71 72h8v14h-8Z"/><path d="M85 72h8v14h-8Z"/><path d="M99 72h6l5 14h-9Z"/></g>
+<path d="M87 60h13v5H87Z" fill="#cc8e5b"/><path d="M94 57v4" stroke="#88959d" stroke-width="3"/>
+<path d="M50 100V4L80 66" fill="none" stroke="#8c806c" stroke-width="2"/>
+<path d="M50 4L18 102M50 38L85 101" fill="none" stroke="#59718b" stroke-width=".8"/>
+<path d="M17 92L61 89M23 92v13M42 90v13M59 90v12" fill="none" stroke="#a88862" stroke-width="2"/>
+<g fill="#344355" stroke="#8b969e" stroke-width="2"><circle cx="26" cy="107" r="4"/><circle cx="39" cy="107" r="4"/><circle cx="52" cy="106" r="4"/><circle cx="65" cy="105" r="4"/></g>
+</g></svg>
