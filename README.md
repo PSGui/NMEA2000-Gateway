@@ -18,7 +18,7 @@ The work covered system architecture, electronic design, prototype assembly, fir
 
 <p align="center"><img src="assets/pcb-overview.png" alt="Assembled PCB without the enclosure." width="480"></p>
 <p align="center"><em>Assembled PCB without the enclosure.</em></p>
-<p align="center"><img src="assets/pcb-overview-back.png" alt="Rear View of the Assembled PCB." width="480"></p>
+<p align="center"><img src="assets/pcb-overview-back.jpeg" alt="Rear View of the Assembled PCB." width="480"></p>
 <p align="center"><em>Rear View of the Assembled PCB.</em></p>
 <p align="center"><img src="assets/prototype-enclosure.jpeg" alt="Prototype mounted on a DIN rail, with the enclosure closed." width="480"></p>
 <p align="center"><em>Prototype mounted on a DIN rail, with the enclosure closed.</em></p>
